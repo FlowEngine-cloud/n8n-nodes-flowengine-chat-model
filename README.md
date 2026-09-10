@@ -2,6 +2,15 @@
 
 This is an n8n community node. It lets you use [FlowEngine Chat Model](https://flowengine.cloud) in your n8n workflows.
 
+## Quick start
+
+In n8n: **Settings → Community Nodes → Install**, then paste:
+
+```
+n8n-nodes-flowengine-chat-model
+```
+
+
 FlowEngine Chat Model provides access to 100+ AI models (OpenAI, Anthropic, Google, Mistral, and more) through a unified API.
 
 [n8n](https://n8n.io/) is a [fair-code licensed](https://docs.n8n.io/reference/license/) workflow automation platform.
